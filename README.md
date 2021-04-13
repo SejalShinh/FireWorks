@@ -1,0 +1,2 @@
+# FireWorks
+Particle systems are ubiquitous in modern video games and other computer graphics applications. A particle system uses a large number of simple shapes called particles to simulate objects that are hard to represent using a single object. Common examples of effects represented by particle systems include smoke, fire, moving water, clouds, and hair. In this lab, I used a simple particle system to draw fireworks. 
